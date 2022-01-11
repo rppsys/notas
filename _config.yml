@@ -27,7 +27,7 @@ twitter_username: rppsys
 github_username:  rppsys
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
